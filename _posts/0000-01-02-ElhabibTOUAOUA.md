@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Elhabib Touaoua slide!"
 ---
 This is a test of the github tutorial
-Use the left arrow to go back!
+Heyy this is a new branch using the github desktop application  
